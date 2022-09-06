@@ -1,4 +1,8 @@
 [
+     {
+        "name": "//---All-Game Scripts---\\",
+        "url": ""
+    },
     {
         "name": "Owl Hub",
         "url": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
@@ -18,6 +22,10 @@
     {
         "name": "[FE] Reviz Admin",
         "url": "https://raw.githubusercontent.com/Username132131231/scripts1/main/reviz-admin"
+    },
+    {
+        "name": "//---Game Scripts---\\",
+        "url": ""
     },
     {
         "name": "Murderer Mystery 2",
