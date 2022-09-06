@@ -34,5 +34,17 @@
     {
         "name": "Blox Fruits",
         "url": "https://raw.githubusercontent.com/xHeptc/BloxFruitsNew/main/src.lua"
+    },
+    {
+        "name": "Legends Of Speed",
+        "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"
+    },
+    {
+        "name": "Doors",
+        "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"
+    },
+    {
+        "name": "INF Yield",
+        "url": "https://pastebinp.com/raw/MjBzRjmT"
     }
 ]
