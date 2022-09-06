@@ -48,7 +48,11 @@
         "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Legends%20Of%20Speed/Script.lua"
     },
     {
-        "name": "Doors",
-        "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"
-    }    
+        "name": "Tower Off Hell",
+        "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Tower%20of%20Hell/Tower%20of%20Hell"
+    },    
+    {
+        "name": "Build A Boat For Treasure",
+        "url": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/Script.lua"
+    }  
 ]
